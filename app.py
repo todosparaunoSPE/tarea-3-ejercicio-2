@@ -81,3 +81,5 @@ st.sidebar.write(
     Para más información sobre cómo interpretar los resultados del ANOVA, consulte la literatura estadística o un experto en análisis de datos.
     """
 )
+
+st.sidebar.write("© 2024 Creado por: Javier Horacio Pérez Ricárdez")
